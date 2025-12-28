@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "custom:wool_to_carpet"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "wool"
+      },
+      {
+        "item": "shears"
+      }
+    ],
+    "result": {
+      "item": "carpet",
+      "count": 3
+    }
+  }
+}
